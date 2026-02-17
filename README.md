@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Este é um curso de [Next.js](https://nextjs.org) projetado para ser um guia didático completo para iniciantes no aprendizado de Next.js.
 
 ## Getting Started
 
